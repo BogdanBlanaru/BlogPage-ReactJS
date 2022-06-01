@@ -1,0 +1,26 @@
+.container_navbar {
+	width: 100%;
+	height: 60px;
+	position: fixed;
+	top: 0;
+	box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
+		rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+	background-color: white;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0 30px 0 30px;
+}
+
+.style_logo {
+	height: 50px;
+	object-fit: contain;
+}
+
+.links {
+	color: black;
+	font-size: 16px;
+	text-decoration: none;
+	font-weight: bold;
+	margin: 0 20px 0 20px;
+}

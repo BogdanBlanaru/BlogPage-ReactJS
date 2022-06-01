@@ -1,0 +1,14 @@
+.footer_container {
+	background-color: #cce6ff;
+	height: 30vh;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.logo_footer {
+	height: 90px;
+	object-fit: contain;
+}
